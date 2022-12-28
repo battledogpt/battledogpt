@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @battledogpt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate  Programação
+- 👀 I’m interested in C#, C, JavaScript
+- 🌱 I’m currently learning C#, C, JavaScript...
+- 💞️ I’m looking to collaborate  Programmation
 - 📫 How to reach me Email/Instagram
 
 <!---
